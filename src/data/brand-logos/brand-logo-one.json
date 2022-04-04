@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "image": "/images/logo/harisLogo.png",
+    "url": "/"
+  },
+  {
+    "id": "2",
+    "image": "/images/logo/FBCakesLogo.png",
+    "url": "/"
+  },
+  {
+    "id": "3",
+    "image": "/images/logo/K2v.png",
+    "url": "/"
+  },
+  {
+    "id": "4",
+    "image": "/images/logo/KadharBhaiLogo.png",
+    "url": "/"
+  },
+  {
+    "id": "5",
+    "image": "/images/logo/MugunthaIdlyLogo.png",
+    "url": "/"
+  },
+  {
+    "id": "6",
+    "image": "/images/logo/NanbansKitchenLogo.png",
+    "url": "/"
+  }
+]
