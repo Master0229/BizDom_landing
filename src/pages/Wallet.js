@@ -12,7 +12,7 @@ const Wallet = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Wallet</title>
+        <title>BizDom | Wallet</title>
         <meta
           name="description"
           content="Wallet page of React JS Crypto Currency Template."

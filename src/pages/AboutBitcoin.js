@@ -12,7 +12,7 @@ const AboutBitcoin = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | About Bitcoin</title>
+        <title>BizDom | About Bitcoin</title>
         <meta
           name="description"
           content="About bitcoin page of React JS Crypto Currency Template."

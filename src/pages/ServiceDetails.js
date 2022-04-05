@@ -10,7 +10,7 @@ const ServiceDetails = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Service Details</title>
+        <title>BizDom | Service Details</title>
         <meta
           name="description"
           content="Service details page of React JS Crypto Currency Template."

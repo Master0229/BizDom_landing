@@ -10,7 +10,7 @@ const LoginRegister = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Login</title>
+        <title>BizDom | Login</title>
         <meta
           name="description"
           content="Login page of React JS Crypto Currency Template."

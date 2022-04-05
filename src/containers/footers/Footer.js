@@ -85,7 +85,7 @@ const Footer = ({ theme, elRef }) => {
                       <a href={process.env.PUBLIC_URL + "/"}>Todays Rate</a>
                     </li>
                     <li>
-                      <a href={process.env.PUBLIC_URL + "/"}>About Howard</a>
+                      <a href={process.env.PUBLIC_URL + "/"}>About BizDom</a>
                     </li>
                     <li>
                       <a href={process.env.PUBLIC_URL + "/"}>Privacy Policy</a>

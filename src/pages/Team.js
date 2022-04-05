@@ -8,7 +8,7 @@ const Team = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Team</title>
+        <title>BizDom | Team</title>
         <meta
           name="description"
           content="Team page of React JS Crypto Currency Template."

@@ -8,7 +8,7 @@ const Merchants = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Merchants</title>
+        <title>BizDom | Merchants</title>
         <meta
           name="description"
           content="Merchants page of React JS Crypto Currency Template."

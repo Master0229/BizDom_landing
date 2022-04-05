@@ -9,7 +9,7 @@ const AboutContent = () => {
           <div className="col-lg-7 col-12 col-sm-12 col-md-12">
             <div className="dg__secure__inner">
               {/* section title */}
-              <SectionTitleFour title="About HOWARD & its Future" />
+              <SectionTitleFour title="About BizDom & its Future" />
 
               <p>
                 There are many variations of passages of Lorem Ipsum available,

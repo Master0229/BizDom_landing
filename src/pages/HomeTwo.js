@@ -21,7 +21,7 @@ const HomeTwo = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | Home Two</title>
+        <title>BizDom</title>
         <meta
           name="description"
           content="Homepage of React JS Crypto Currency Template."

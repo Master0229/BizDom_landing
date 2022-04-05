@@ -8,7 +8,7 @@ const BlogPost = () => {
   return (
     <Fragment>
       <MetaTags>
-        <title>Howard | News Details</title>
+        <title>BizDom | News Details</title>
         <meta
           name="description"
           content="News details page of React JS Crypto Currency Template."
